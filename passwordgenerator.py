@@ -18,4 +18,5 @@ random.shuffle(password)
 s_password=""
 for i in password:
     s_password+=i
+
 print("Your password is :\n",s_password)
